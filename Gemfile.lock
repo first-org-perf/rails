@@ -204,7 +204,7 @@ GEM
     kindlerb (0.1.1)
       mustache
       nokogiri
-    loofah (2.0.3)
+    loofah (2.2.1)
       nokogiri (>= 1.5.9)
     metaclass (0.0.4)
     method_source (0.8.2)
@@ -218,11 +218,11 @@ GEM
     mustache (1.0.2)
     mysql (2.9.1)
     mysql2 (0.4.0)
-    nokogiri (1.6.7.rc3)
+    nokogiri (1.8.2)
       mini_portile (~> 0.7.0.rc4)
-    nokogiri (1.6.7.rc3-x64-mingw32)
+    nokogiri (1.8.2.rc3-x64-mingw32)
       mini_portile (~> 0.7.0.rc4)
-    nokogiri (1.6.7.rc3-x86-mingw32)
+    nokogiri (1.8.2.rc3-x86-mingw32)
       mini_portile (~> 0.7.0.rc4)
     pg (0.18.3)
     psych (2.0.15)
@@ -327,7 +327,7 @@ DEPENDENCIES
   mocha (~> 0.14)
   mysql (>= 2.9.0)
   mysql2 (>= 0.4.0)
-  nokogiri (>= 1.6.7.rc3)
+  nokogiri (>= 1.8.2)
   pg (>= 0.18.0)
   psych (~> 2.0)
   qu-rails!
