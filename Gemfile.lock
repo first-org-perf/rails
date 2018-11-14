@@ -204,7 +204,7 @@ GEM
     kindlerb (0.1.1)
       mustache
       nokogiri
-    loofah (2.2.1)
+    loofah (2.2.4)
       nokogiri (>= 1.5.9)
     metaclass (0.0.4)
     method_source (0.8.2)
@@ -239,7 +239,7 @@ GEM
       nokogiri (~> 1.6.0)
       rails-deprecated_sanitizer (>= 1.0.1)
     rails-html-sanitizer (1.0.2)
-      loofah (~> 2.0)
+      loofah (~> 2.2.4)
     rake (10.4.2)
     rdoc (4.2.0)
     redcarpet (3.2.3)
